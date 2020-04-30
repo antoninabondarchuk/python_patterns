@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+   <child/>
+   <child>
+      <child_of_child/>
+   </child>
+   <child>some text</child>
+</root>
